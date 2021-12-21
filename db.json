@@ -4,19 +4,19 @@
       "id": "Grau1 Grau2",
       "start_date": "09/01/2021",
       "end_date": "02/01/2022",
-      "owner": 3,
+      "owner": 3
     },
     {
       "id": "Grau3",
       "start_date": "09/01/2021",
       "end_date": "02/01/2022",
-      "owner": 2,
+      "owner": 2
     },
     {
       "id": "Master1 Master2",
       "start_date": "09/01/2021",
       "end_date": "02/01/2022",
-      "owner": 4,
+      "owner": 4
     }    
   ]
 }
