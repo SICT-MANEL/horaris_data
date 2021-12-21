@@ -17,6 +17,13 @@
       "start_date": "09/01/2021",
       "end_date": "02/01/2022",
       "owner": 4
-    }    
+    },
+    {
+      "id": "Resta de titulacions",
+      "start_date": "09/01/2021",
+      "end_date": "02/01/2022",
+      "owner": 4
+      
+    }
   ]
 }
